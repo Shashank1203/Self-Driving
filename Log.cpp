@@ -6,5 +6,6 @@ void Log(const char* message)
 }
 
 int main() {
-	Log("hello shashank Poojary");
+	Log("hello shashank Poojary!!!!!");
+    cout<<"hello sir"<<endl;
 }
