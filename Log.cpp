@@ -8,4 +8,5 @@ void Log(const char* message)
 int main() {
 	Log("hello !!!!");
     cout<<"hello sir"<<endl;
+	//Hello github
 }
